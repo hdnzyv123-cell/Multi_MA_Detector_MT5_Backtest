@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+backtest_results/
+**/backtest_results/
+*.csv
+*.json
+*.log
+*.png
+*.xlsx
+*.parquet
+.env
